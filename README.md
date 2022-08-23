@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Githubmaster2021
+- 👋 Hi, I’m Alexandru Cristian Rada aslo known as @Githubmaster2021
 - 👀 I’m interested in ... HTML, CSS, JAVA, REACT.JS and JAVA
 - 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ...
